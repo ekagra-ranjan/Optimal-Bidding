@@ -1,8 +1,5 @@
-# optimal-bidding
-Inter IIT Techmeet 2017, IIT Madras - Data Science Competition
-
-
 # Optimal Bidding
+Inter IIT Techmeet 2017, IIT Madras - Data Science Competition
 ## Preamble to the Problem:
 Liberalization of sale of electricity has led to competitive electricity markets. Generators and
 consumers can trade electricity at prices agreeable to both by bidding in the market, which is
