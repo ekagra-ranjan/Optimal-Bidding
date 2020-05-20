@@ -12,7 +12,8 @@ Inter IIT Techmeet 2017, IIT Madras - Data Science Competition
     <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/raw/master/Method_Presentation_IIT_GUWAHATI.pptx"><img src="http://img.shields.io/badge/Slides-ppt-orange.svg"></a>
 </p>
 
-
+<br>
+<br>
 
 ## Preamble to the Problem:
 Liberalization of sale of electricity has led to competitive electricity markets. Generators and
@@ -125,3 +126,17 @@ available at demand.csv
 solar.csv.
 3. Oracle predictions regional market prices (in Rs./KWh) for 50 days are available at
 price.csv.
+
+
+<br>
+<br>
+
+## Github repos of similar Data Science Competitions:
+
+* [Analyze-This-18](https://github.com/ekagra-ranjan/Analyze-This-18)
+* [Analyze-This-17](https://github.com/ekagra-ranjan/Analyze-This-17)
+* [GS-Quantify-17](https://github.com/ekagra-ranjan/GS-Quantify-17/)
+
+<p align="center">
+	Please star the repo if you found the materials in the repo useful :)
+</p>
