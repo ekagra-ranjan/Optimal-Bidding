@@ -1,9 +1,18 @@
-# Optimal Bidding
-Inter IIT Techmeet 2017, IIT Madras - Data Science Competition
+<h1 align="center">
+Optimal Bidding
+</h1>
 
-## RESULT:
-Ranked **1st** in public leaderboard  
-Ranked **4th** overall (public leaderboard +  private leaderboard + presentation)
+<h2 align="center">
+Inter IIT Techmeet 2017, IIT Madras - Data Science Competition
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/"><img src="http://img.shields.io/badge/Public Leaderboard Rank-1-blue.svg"></a>
+  <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/"><img src="http://img.shields.io/badge/Private Leaderboard Rank-4-blue.svg"></a>
+    <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/raw/master/Method_Presentation_IIT_GUWAHATI.pptx"><img src="http://img.shields.io/badge/Slides-ppt-orange.svg"></a>
+</p>
+
+
 
 ## Preamble to the Problem:
 Liberalization of sale of electricity has led to competitive electricity markets. Generators and
@@ -96,7 +105,7 @@ in energy upto 5 KWh in an hour
 KWh
 5. Inverter efficiency – 100%
 6. Price of electricity offered by DISCOM – Rs.7/KWh
-### Training Set: ​Linked here
+### Training Set:
 1. Oracle predictions of the community’s hourly energy demand (in KWh) for 900 days are
 available at Demand_Train_pred.csv
 2. Oracle predictions of the hourly solar plant output (in KWh) for 900 days are available at
@@ -109,7 +118,7 @@ available at Demand_Train.csv
 Solar_Train.csv
 6. Actual values regional market prices (in Rs./KWh) for 900 days are available at
 Price_Train.csv
-### Public Leaderboard Set: ​Linked here
+### Public Leaderboard Set:
 1. Oracle predictions of the community’s hourly energy demand (in KWh) for 50 days are
 available at demand.csv
 2. Oracle predictions of the hourly solar plant output (in KWh) for 50 days are available at
