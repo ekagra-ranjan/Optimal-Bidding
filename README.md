@@ -136,6 +136,7 @@ price.csv.
 * [Analyze-This-18](https://github.com/ekagra-ranjan/Analyze-This-18)
 * [Analyze-This-17](https://github.com/ekagra-ranjan/Analyze-This-17)
 * [GS-Quantify-17](https://github.com/ekagra-ranjan/GS-Quantify-17/)
+* [awesome-undergrad-hackathons](https://github.com/ekagra-ranjan/awesome-undergrad-hackathons)
 
 <p align="center">
 	Please star the repo if you found the materials in the repo useful :)
