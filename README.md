@@ -7,8 +7,8 @@ Inter IIT Techmeet 2017, IIT Madras - Data Science Competition
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/"><img src="http://img.shields.io/badge/Public Leaderboard Rank-1-blue.svg"></a>
-  <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/"><img src="http://img.shields.io/badge/Private Leaderboard Rank-4-blue.svg"></a>
+  <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/"><img src="http://img.shields.io/badge/Public LB Rank-1-blue.svg"></a>
+  <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/"><img src="http://img.shields.io/badge/Private LB Rank-4-blue.svg"></a>
     <a href="https://github.com/ekagra-ranjan/Optimal-Bidding/raw/master/Method_Presentation_IIT_GUWAHATI.pptx"><img src="http://img.shields.io/badge/Slides-ppt-orange.svg"></a>
 </p>
 
